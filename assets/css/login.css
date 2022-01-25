@@ -1,0 +1,38 @@
+body {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    font-family: 'Nunito Sans', sans-serif !important;
+}
+
+h5 {
+    color: #000000 !important;
+    font-weight: 600 !important;
+    font-size: 60px !important;
+}
+
+label {
+    color: #000000;
+}
+
+.descripsi {
+    color: #0DAFFF;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+} 
+
+.logo-1 {
+    width: 80%;
+}
+
+.card {
+    width: 100%;
+    float: right;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
