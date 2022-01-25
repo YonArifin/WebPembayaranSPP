@@ -18,7 +18,6 @@
             </head>
             <body>
                 $konten
-            <!-- Javascript --!>
                 <script>
                     function myFunction() {
                         var x = document.getElementById('inputPassword');
@@ -29,22 +28,6 @@
                         }
                     }
                 </script>
-            <!--===============================================================================================-->	
-                <script src='./assets/jquery/jquery-3.2.1.min.js'></script>
-            <!--===============================================================================================-->
-                <script src='./assets/bootstrap/js/popper.js'></script>
-                <script src='./assets/bootstrap/js/bootstrap.min.js'></script>
-            <!--===============================================================================================-->
-                <script src='./assets/select2/select2.min.js'></script>
-            <!--===============================================================================================-->
-                <script src='./assets/tilt/tilt.jquery.min.js'></script>
-                <script >
-                    $('.js-tilt').tilt({
-                        scale: 1.1
-                    })
-                </script>
-            <!--===============================================================================================-->
-                <script src='./assets/js/main.js'></script>
             </body>
         </html>
     ";
