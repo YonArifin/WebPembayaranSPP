@@ -13,7 +13,7 @@
                 rel='stylesheet'>
 
             <!-- Custom styles for this template-->
-            <link href='../assets/css/sb-admin-2.min.css' rel='stylesheet'>
+            <link href='../assets/css/sb-admin-2.min.css?' rel='stylesheet'>
         </head>
         <body>
             <!-- Page Wrapper -->
@@ -131,6 +131,11 @@
 
                         <div class='container ml-5'>
                             <h1>Selamat Datang</h1>
+                            <h1>Admin</h1>
+                            <div class='mt-5'>
+                                <button type='submit' class='btn btn-primary spp'>Pembayaran SPP</button><br>
+                                <button type='submit' class='btn btn-primary riwayat mt-3'>Riwayat Pembayaran</button>
+                            </div>
                         </div>
 
             <!-- Bootstrap core JavaScript-->

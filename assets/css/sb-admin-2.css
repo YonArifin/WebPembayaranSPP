@@ -11279,3 +11279,16 @@ footer.sticky-footer .copyright {
 body.sidebar-toggled footer.sticky-footer {
   width: 100%;
 }
+
+.active {
+  background-color:#21D0DB;
+  border-radius:10px;
+}
+
+h1 {
+  color: #000000;
+}
+
+.spp {
+  font-size: 30px;
+}
